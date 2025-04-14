@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/helm-%230F1689.svg?&style=for-the-badge&logo=helm&logoColor=white" />
 <img src="https://img.shields.io/badge/argocd-EF7B4D.svg?&style=for-the-badge&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/apache%20kafka-%23231F20.svg?&style=for-the-badge&logo=apache%20kafka&logoColor=white" />
