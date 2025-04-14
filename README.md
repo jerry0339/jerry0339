@@ -23,9 +23,9 @@
 <img src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/apache%20kafka-%23231F20.svg?&style=for-the-badge&logo=apache%20kafka&logoColor=white" />
 <br>
+<img src="https://img.shields.io/badge/kibana-%23005571.svg?&style=for-the-badge&logo=kibana&logoColor=white" />
 <img src="https://img.shields.io/badge/grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white" />
 <img src="https://img.shields.io/badge/prometheus-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/kibana-%23005571.svg?&style=for-the-badge&logo=kibana&logoColor=white" />
 <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
